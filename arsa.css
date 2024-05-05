@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  #Call {
+    background: linear-gradient(rgba(8, 79, 202, 0.9), rgba(40, 58, 90, 0.9)), url(https://bootstrapmade.com/demo/templates/Arsha/assets/img/cta-bg.jpg) fixed center center;
+    background-size: cover;
+    padding: 120px 0;
+  }
+  .shgsaj{
+    transition: all 0.5s ease-in-out;
+  }
+  .shgsaj:hover{
+    transform: translateY(-15px);
+  }
+  .abc img{
+    filter: grayscale(100%);
+  }
+  .abc img:hover{
+    filter: grayscale(0%);
+  }
+  .xyz h6{
+    color: black;
+  }
+  .xyz h6:hover{
+    color: blue;
+  }
+  .as h5{
+    color: #37517e ;
+  }
+  .as h5:hover{
+    color: #47b2e4;
+
+  }
